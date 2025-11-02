@@ -1,0 +1,24 @@
+bg-container {
+  display: flex;
+  justify-content: center;
+}
+
+.home-bg-container {
+  width: 80%;
+  margin: auto;
+}
+.loader-container {
+  width: 20%;
+  margin: auto;
+  display: flex;
+  padding: 75px;
+}
+.course-container {
+  list-style-type: none;
+  /* padding-left: 30px; */
+  display: flex;
+  margin-left: -60px;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

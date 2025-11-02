@@ -1,0 +1,20 @@
+.link-item {
+  text-decoration: none;
+  color: black;
+}
+.course-logo {
+  width: 55px;
+  margin-right: 12px;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: 800;
+  font-family: Roboto;
+}
+.list-item {
+  display: flex;
+  align-items: center;
+  width: 165px;
+  margin: 25px 20px;
+}
